@@ -12,7 +12,7 @@ I am John Philip A Front-End Developer in Nairobi, Kenya
 - ⚡ Fun fact: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind."
 
 
-### USEFUL LINK
+### Useful Links
 
 -  **Blog**            **[Hashnode](https://amjohnphilip.hashnode.dev/)**
 
