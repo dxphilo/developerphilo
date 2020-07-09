@@ -1,4 +1,4 @@
-### Hi there 👋
+### Habari Yako 👋
 
 
 I am John Philip A Front-End Developer in Nairobi, Kenya
