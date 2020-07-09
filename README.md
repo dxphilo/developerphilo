@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am John Philip A FrontEnd Developer in Nairobi, Kenya
+I am John Philip A Front-End Developer in Nairobi, Kenya
 
 - 🔭 I’m currently on an internship program at **HockeyKe**
 - 🌱 I’m currently learning **EXPRESS JS** and **MONGODB**
