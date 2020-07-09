@@ -1,7 +1,7 @@
 ### Habari Yako 👋
 
 
-I am John Philip A Front-End Developer in Nairobi, Kenya
+I am John Philip A Front-End Developer in Nairobi, Kenya. I'm passionate about technology and learning how things work.
 
 - 🔭 I’m currently on an internship program at **HockeyKe**
 - 🌱 I’m currently learning **EXPRESS JS** and **MONGODB**
