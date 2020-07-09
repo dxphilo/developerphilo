@@ -14,15 +14,15 @@ I am John Philip A Front-End Developer in Nairobi, Kenya
 
 ### USEFUL LINK
 
--  Blog         :   [Hashnode](https://amjohnphilip.hashnode.dev/)
+-  **Blog**         :   **[Hashnode](https://amjohnphilip.hashnode.dev/)**
 
--  Github       :   [Github](https://github.com/developerphilo/)
+-  **Github**       :   **[Github](https://github.com/developerphilo/)**
 
--  Youtube      :   [Youtube](https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA?view_as=subscriber)
+-  **Youtube**      :   **[Youtube](https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA?view_as=subscriber)**
 
--  Twitter      :   [Twitter](https://twitter.com/amjohnphilip)
+-  **Twitter**      :   **[Twitter](https://twitter.com/amjohnphilip)**
 
--  Linkedin     :   [Linkedin](https://www.linkedin.com/in/amjohnphilip/)
+-  **Linkedin**     :   **[Linkedin](https://www.linkedin.com/in/amjohnphilip/)**
 
 
 
