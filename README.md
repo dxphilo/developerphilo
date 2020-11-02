@@ -3,7 +3,7 @@
 
 I am John Philip a Developer in Nairobi, Kenya. I'm passionate about technology and learning how things work.
 
-- 🔭 I’m currently open for any Developer role
+- 🔭 I’m currently on a virtual Internship program at @AppsLab:Ke
 - 🌱 I’m currently learning **EXPRESS JS** and **MONGODB**
 - 👯 I use daily `.js`, `.html`, `.css`, `.svg`, `.psd` `.py`
 - 💬 Learning all about **Open Source**
