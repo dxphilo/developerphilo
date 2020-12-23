@@ -1,5 +1,5 @@
-<div class="center">
-### Habari Yako 👋
+<div align="center">
+  <h2>Habari Yako 👋</h2>
   </div>
 
 ---
