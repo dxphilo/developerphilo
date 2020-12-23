@@ -3,7 +3,7 @@
 ---
 ✨ I'm a frontend Developer and technical writer passionate about making the web accessible to everyone through open-source projects. 
 
-I’m also a big advocate for building open and inclusive communities which led me to start the Vue Vixens chapter in Nigeria and the JAMstack community in Lagos. I'm a co-organizer of the VuejsKenya.
+I’m also a big advocate for building open and inclusive communities. I'm a community-organizer of the VuejsKenya.
 
 I love sharing my knowledge with others, and I do that through content creation on my Blog and ocassionaly on my YouTube channel.When I'm not coding, you can find me chatting about Football.
 
