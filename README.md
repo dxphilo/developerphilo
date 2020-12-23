@@ -15,8 +15,6 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 -  **Blog**            **[Hashnode](https://amjohnphilip.hashnode.dev/)**
 
--  **Github**          **[Github](https://github.com/developerphilo/)**
-
 -  **Youtube**         **[Youtube](https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA?view_as=subscriber)**
 
 -  **Twitter**         **[Twitter](https://twitter.com/amjohnphilip)**
