@@ -1,4 +1,6 @@
+<div class="center">
 ### Habari Yako 👋
+  </div>
 
 ---
 ✨ I'm a frontend Developer and technical writer passionate about making the web accessible to everyone through open-source projects. 
