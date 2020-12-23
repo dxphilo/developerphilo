@@ -1,13 +1,13 @@
 ### Habari Yako 👋
 
+---
+✨ I'm a frontend Developer and technical writer passionate about making the web accessible to everyone through open-source projects. 
 
-I am John Philip a Developer in Nairobi, Kenya. I'm passionate about technology and learning how things work.
+I’m also a big advocate for building open and inclusive communities which led me to start the Vue Vixens chapter in Nigeria and the JAMstack community in Lagos. I'm a co-organizer of the VuejsKenya.
 
-- 🌱 I’m currently learning **EXPRESS JS** and **MONGODB**
-- 👯 I use daily `.js`, `.html`, `.css`, `.svg`, `.psd` `.py`
-- 💬 Learning all about **Open Source**
-- 📫 Reach me: [John Philip](https://www.linkedin.com/in/amjohnphilip/)
-- 😄 Ping me about **design**, **JavaScript**, **development**, **React**
+I love sharing my knowledge with others, and I do that through content creation on my Blog and ocassionaly on my YouTube channel.When I'm not coding, you can find me chatting about Football.
+
+- 😄 My Pronouns: He/Him   
 - ⚡ Fun fact: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind."
 
 
