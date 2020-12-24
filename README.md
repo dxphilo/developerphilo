@@ -13,15 +13,14 @@ I love sharing my knowledge with others, and I do that through content creation 
 - ⚡ Fun fact: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind."
 
 
-### Useful Links
+<div align="center">
+---
 
--  **Blog**            **[Hashnode](https://amjohnphilip.hashnode.dev/)**
+Feel free to reach out to me! 😊 <br />
+<a href="https://www.instagram.com/amjohnphilip">Instagram</a> || <a href="https://www.twitter.com/amjohnphilip">Twitter</a> || <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> || <a href="https://amjohnphilip.medium.com/">Blog</a> ||  <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">Youtube</a> ||
 
--  **Youtube**         **[Youtube](https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA?view_as=subscriber)**
-
--  **Twitter**         **[Twitter](https://twitter.com/amjohnphilip)**
-
--  **Linkedin**        **[Linkedin](https://www.linkedin.com/in/amjohnphilip/)**
+---
+</div>
 
 
 
