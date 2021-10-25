@@ -3,7 +3,7 @@
   </div>
 
 ---
-✨ I'm a frontend Developer and technical writer passionate about making the web accessible to everyone through open-source projects. 
+✨ I'm a Software Developer and technical writer passionate about making the web accessible to everyone through open-source projects. 
 
 I’m also a big advocate for building open and inclusive communities. I'm a community-organizer at [VuejsKenya](https://twitter.com/kenyavue).
 
