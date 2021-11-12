@@ -3,7 +3,11 @@
   </div>
 
 ---
-✨ I'm a Software Developer, technical writer and community-organizer at [VuejsKenya](https://twitter.com/kenyavue).
+<div align="center">
+  
+✨ I'm a Software Developer, technical writer and community-organizer at [VuejsKenya](https://twitter.com/kenyavue)
+  
+ </div>
 
 <div align="center">
 
