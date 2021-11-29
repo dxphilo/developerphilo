@@ -5,7 +5,7 @@
 ---
 <div align="center">
   
-✨ I'm a Software Developer | Technical Writer | Community-Organizer at [VuejsKenya](https://twitter.com/kenyavue)
+✨ Software Developer | Technical Writer | Community-Organizer at [VuejsKenya](https://twitter.com/kenyavue)
   
  </div>
 
